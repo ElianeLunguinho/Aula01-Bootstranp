@@ -1,1 +1,1 @@
-Teste
+Desenvolver com HTML, CSS e Bootstrap combina estrutura, estilo e eficiência. O HTML cria a base do site, o CSS traz design com cores, fontes e layouts, e o Bootstrap oferece componentes e estilos prontos, facilitando a criação de sites modernos e responsivos. Juntos, formam uma base poderosa para desenvolver na web com praticidade e criatividade.
